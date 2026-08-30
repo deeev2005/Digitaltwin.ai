@@ -100,7 +100,7 @@ It shows how physical manufacturing operations can be connected with real-time d
 
 ### Accenture Innovation Challenge - 2026
 
-**Presented by Team Striker Eureka**
+**Presented by Team - Striker Eureka**
 
 * **Mayank Aggarwal**
 * **Deepesh Verma**
