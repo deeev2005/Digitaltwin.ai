@@ -31,6 +31,14 @@ The prototype visualizes the flow:
 * Lucide Icons
 * TanStack Query
 
+## Live Demo
+
+You can view the live hosted demo on Render:
+
+https://digitaltwin-wsb6.onrender.com/
+
+**Please note:** After opening the link, Render may take around **1 minute to load the application**. Please wait for the demo to load.
+
 ## Getting Started
 
 ### Prerequisites
@@ -100,7 +108,7 @@ It shows how physical manufacturing operations can be connected with real-time d
 
 ### Accenture Innovation Challenge - 2026
 
-**Presented by Team - Striker Eureka**
+**Presented by Team Striker Eureka**
 
 * **Mayank Aggarwal**
 * **Deepesh Verma**
